@@ -1,0 +1,5 @@
+[
+    { "code": "abc12", "url": "https://nodejs.org/docs", "visits": 4, "createdAt": "2026-07-17T09:00:00.000Z" },
+    { "code": "xy789", "url": "https://expressjs.com", "visits": 11, "createdAt": "2026-07-17T09:05:00.000Z" },
+    { "code": "qw456", "url": "https://developer.mozilla.org", "visits": 2, "createdAt": "2026-07-17T09:10:00.000Z" }
+]
